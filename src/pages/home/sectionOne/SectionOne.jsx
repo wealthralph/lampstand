@@ -46,6 +46,7 @@ const SectionOne = () => {
     <section className={styles.wrapper}>
       <div className={styles.container}>
         <div className={styles.excel}>
+          <div>
           <span className={styles.subtitle}>Excellence</span>
           <h2>Over half a decade of unwavering commitment to excellence.</h2>
           <p>
@@ -55,7 +56,9 @@ const SectionOne = () => {
             standard for excellence in guiding aspiring minds towards their
             educational goals.
           </p>
+          </div>
         </div>
+        <StatsComp/>
       </div>
     </section>
   );

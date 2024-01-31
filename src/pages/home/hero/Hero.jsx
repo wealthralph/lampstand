@@ -8,7 +8,7 @@ const Hero = () => {
         <div className={styles.heading}>
           <span className={styles.subtitle}>Lampstand Consult</span>
           <h1>
-            Your gateway to stress free <br /> educational travel and consult.
+            Your gateway to stress free <br /> educational travel.
           </h1>
           <p>
             Unlock limitless opportunities with our comprehensive educational

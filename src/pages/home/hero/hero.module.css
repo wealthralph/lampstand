@@ -19,7 +19,7 @@
   padding-block-start: 50px;
   background-image: url('../../../assets/hero.png');
   background-position-x:-100px;
-  background-position-y:40px;
+  background-position-y:150px;
   background-repeat: repeat-x;
   background-size: contain;
   background-blend-mode: hard-light;
@@ -96,6 +96,8 @@
     margin: 50px auto;
     border-radius: 0px;
     background-size: cover;
+  background-position-x:80px;
+  background-position-y:40px;
   }
 
   .heading p {

@@ -1,0 +1,23 @@
+.wrapper {
+    /* border-bottom: thin solid black; */
+    width: 100%;
+
+}
+
+.container{
+    max-width: var(--body-width);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    padding-inline: 5px;
+    padding-block: 10px;
+}
+
+.logo {
+    display: flex;
+    gap: 5px;
+    color: black;
+    align-items: center;
+}

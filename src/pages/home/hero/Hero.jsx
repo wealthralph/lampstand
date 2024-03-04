@@ -1,5 +1,5 @@
 import styles from "./hero.module.css"
-import {Button, Input} from "antd"
+import {Button} from "antd"
 
 const Hero = () => {
   return (
@@ -17,13 +17,7 @@ const Hero = () => {
           </p>
         </div>
         <div className={styles.cta}>
-          <Input
-            placeholder="Email"
-            variant="filled"
-            size="middle"
-            style={{ backgroundColor: "white" }}
-          />
-          <h6>We reply between 1 -2 hours</h6>
+
           <Button type="primary"> Make request</Button>
         </div>
       </div>

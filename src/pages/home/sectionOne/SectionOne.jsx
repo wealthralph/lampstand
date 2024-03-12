@@ -4,14 +4,14 @@ import styles from "./SectionOne.module.css"
 const stats = [
   {
     id: 1,
-    stats: "730 +",
+    stats: "500 +",
     title: "Visa Processed",
     description:
       "Navigate hassle-free journeys with our expertise as we successfully process over 730 visas, ensuring a smooth and efficient travel experience",
   },
   {
     id: 2,
-    stats: "1000 +",
+    stats: "500 +",
     title: "Student Admissions",
     description:
       "Empowering dreams, we've facilitated over 1000 student admissions, helping individuals unlock the doors to quality education and brighter futures.",

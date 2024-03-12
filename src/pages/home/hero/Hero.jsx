@@ -6,7 +6,7 @@ const Hero = () => {
     <section className={styles.wrapper}>
       <div className={styles.container} >
         <div className={styles.heading}>
-          <span className={styles.subtitle}>Lampstand Consult</span>
+          <span className={styles.subtitle}>Lampstand Travels & Edu Consult</span>
           <h1>
             Your gateway to stress free <br /> educational travel.
           </h1>
